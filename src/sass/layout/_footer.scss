@@ -1,0 +1,136 @@
+.footer {
+  padding-bottom: 46px;
+}
+.footer-container {
+  display: flex;
+  margin-bottom: 16px;
+}
+.footer-about-us-container {
+  margin-right: 160px;
+}
+.footer-logo {
+  display: inline-block;
+  width: 163px;
+  height: 29px;
+  margin-bottom: 25px;
+}
+.footer-social-list {
+  display: flex;
+}
+.footer-social-item:not(:first-child) {
+  margin-left: 16px;
+}
+.footer-social-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #edfffc;
+}
+.footer-social-link_icon {
+  fill: #02897a;
+}
+.footer-resource-container {
+  margin-right: 153px;
+}
+.footer-resource-title {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #22343d;
+}
+.footer-resource-list {
+}
+.footer-resource-item {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 2.2;
+}
+.footer-resource-link {
+  color: #22343d;
+}
+.footer-legal-stuff-container {
+  margin-right: 81px;
+}
+.footer-legal-stuff-title {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #22343d;
+}
+.footer-legal-stuff-list {
+}
+.footer-legal-stuff-item {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 2.2;
+}
+.footer-legal-stuff-link {
+  color: #22343d;
+}
+.footer-sing-up-container {
+  display: flex;
+  flex-direction: column;
+}
+.footer-sing-up-laber {
+  display: inline-block;
+  margin-bottom: 34px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  width: 280px;
+  color: #22343d;
+}
+.footer-sing-up-input {
+  display: inline-block;
+  margin-bottom: 21px;
+  background: #ffffff;
+  border: 1px solid #bcd0e5;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: ProximaNova;
+  font-size: 16px;
+  line-height: 1.8;
+  padding: 10px 15px;
+  color: #bcd0e5;
+  
+}
+.footer-sing-up-btn {
+  background: #02897a;
+  border-radius: 4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.5;
+  width: 131px;
+  height: 39px;
+  text-align: center;
+  border: 0;
+  color: #ffffff;
+}
+.footer-title {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.9;
+  color: #22343d;
+  margin: 16px auto;
+}
